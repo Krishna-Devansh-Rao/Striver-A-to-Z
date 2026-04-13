@@ -29,4 +29,52 @@ using namespace std;
 //     return 0;
 // }
 
+// if else
+// int main() {
+//     int money = 500;
+//     if (money >= 1000) {
+//         cout << "I will buy a pizza";
+//     } else {
+//         cout << "I will buy a burger";
+//     }   
+//     return 0;
+// }
+
+// For Loop
+// int main() {
+//     // Print "Hello" 5 times
+//     for (int i = 1; i <= 5; i++) {
+//         cout << "Hello" << endl;
+//     }   
+//     return 0;
+// }
+
+// Do while
+// int main() {
+//     int count = 1;
+//     while (count <= 5) {
+//         cout << count << " ";
+//         count++; // Important! Increase count, otherwise it runs forever.
+//     }   
+//     return 0;
+// }
+
+// Switch case
+// int main() {
+//     int day = 3;
+//     switch (day) {
+//         case 1:
+//             cout << "Monday";
+//             break;
+//         case 2:
+//             cout << "Tuesday";
+//             break;
+//         case 3:
+//             cout << "Wednesday";
+//             break;
+//         default:
+//             cout << "Invalid day";
+//     }
+//     return 0;
+// }
 
