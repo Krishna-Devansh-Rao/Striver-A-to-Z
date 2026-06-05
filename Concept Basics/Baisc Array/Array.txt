@@ -1,0 +1,13 @@
+Array 
+
+It is a Fixed size container 
+
+It is a type of Data structure which can store multiple data at one place .
+the Data type should be same for all the data which is getting stored.
+
+1st we need to tell the data type then name of the array then sq bracket
+
+int name[ ] = { 4,2,1,2,5}
+
+Data is stored in Memory blocks and they are contigious 
+
