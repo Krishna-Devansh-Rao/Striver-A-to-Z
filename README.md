@@ -64,11 +64,11 @@ The goal is not only to solve problems but to deeply understand concepts, improv
 
 ## 🟢 Foundations
 
-- [ ] Concept Basics
-- [ ] Language Basics
-- [ ] Logic Building Patterns
-- [ ] STL and Collections
-- [ ] Time Complexity
+- [x] Concept Basics
+- [x] Language Basics
+- [x] Logic Building Patterns
+- [x] STL and Collections
+- [x] Time Complexity
 
 ---
 
@@ -109,11 +109,11 @@ The goal is not only to solve problems but to deeply understand concepts, improv
 
 | Topic | Status |
 |---------|---------|
-| Concept Basics | ⏳ |
-| Language Basics | ⏳ |
-| Logic Building Patterns | ⏳ |
-| STL and Collections | ⏳ |
-| Time Complexity | ⏳ |
+| Concept Basics | x |
+| Language Basics | x |
+| Logic Building Patterns | x |
+| STL and Collections | x |
+| Time Complexity | x |
 | Sorting | ⏳ |
 | Arrays | ⏳ |
 | Hashing | ⏳ |
@@ -181,25 +181,6 @@ Striver-A-to-Z/
 
 ---
 
-# 🏆 Striver A2Z Progress
-
-<div align="center">
-
-### 📚 TakeUForward Profile
-
-<a href="https://takeuforward.org/profile/krishna_108">
-    <img src="https://img.shields.io/badge/TakeUForward-Profile-orange?style=for-the-badge&logo=bookstack" />
-</a>
-
-<br><br>
-
-🔗 https://takeuforward.org/profile/krishna_108
-
-<br>
-
-📈 Following the complete Striver A2Z roadmap and tracking progress publicly.
-
-</div>
 
 ---
 
