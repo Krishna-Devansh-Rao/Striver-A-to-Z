@@ -109,11 +109,11 @@ The goal is not only to solve problems but to deeply understand concepts, improv
 
 | Topic | Status |
 |---------|---------|
-| Concept Basics | x |
-| Language Basics | x |
-| Logic Building Patterns | x |
-| STL and Collections | x |
-| Time Complexity | x |
+| Concept Basics | ✅ |
+| Language Basics | ✅ |
+| Logic Building Patterns | ✅ |
+| STL and Collections | ✅ |
+| Time Complexity | ✅ |
 | Sorting | ⏳ |
 | Arrays | ⏳ |
 | Hashing | ⏳ |
