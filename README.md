@@ -5,14 +5,14 @@
 <h1>💻 Data Structures & Algorithms</h1>
 
 <p>
-Building strong problem-solving skills one problem at a time.
+Mastering Data Structures & Algorithms through Striver's A2Z DSA Sheet
 </p>
 
 <p>
-Following <b>Striver's A2Z DSA Sheet</b> from Beginner to Advanced 🚀
+🔥 Consistency • 📚 Learning • 🚀 Growth
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Striver+A2Z+DSA+Journey;Solving+Problems+Every+Day;Learning+%7C+Building+%7C+Growing;Consistency+%3E+Motivation;Future+Software+Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Striver+A2Z+DSA+Journey;Solving+Problems+Every+Day;Learning+From+Beginner+To+Advanced;Building+Strong+Problem+Solving+Skills;Consistency+%3E+Motivation" />
 
 <br>
 
@@ -24,53 +24,43 @@ Following <b>Striver's A2Z DSA Sheet</b> from Beginner to Advanced 🚀
 
 ---
 
+# 🎯 Mission
+
+> Complete the entire Striver A2Z DSA Sheet, strengthen problem-solving skills, master Data Structures & Algorithms, and become interview-ready through consistent practice.
+
+---
+
 # 📌 About This Repository
 
-Welcome to my **Striver A2Z DSA Journey Repository**.
+This repository contains my complete journey through **Striver's A2Z DSA Sheet**.
 
-This repository serves as a complete record of my journey through Data Structures and Algorithms while following the famous **Striver A2Z DSA Sheet**.
+The goal is not only to solve problems but to deeply understand concepts, improve coding skills, and build strong problem-solving abilities.
 
-The objective is not only to solve problems but also to:
+### This repository will include:
 
-✅ Build strong problem-solving skills
+✅ Theory Notes
 
-✅ Master Data Structures & Algorithms
+✅ Concept Explanations
 
-✅ Improve coding interview preparation
+✅ Brute Force Solutions
 
-✅ Learn optimal approaches and patterns
+✅ Better Approaches
 
-✅ Maintain consistency and discipline
+✅ Optimal Solutions
 
-✅ Track progress publicly
+✅ Time Complexity Analysis
 
-As I progress through the roadmap, this repository will be continuously updated with:
+✅ Space Complexity Analysis
 
-- Theory Notes
-- Concepts
-- Problem Solutions
-- Brute Force Approaches
-- Better Approaches
-- Optimal Approaches
-- Time Complexity Analysis
-- Space Complexity Analysis
-- Revision Notes
+✅ Revision Notes
+
+✅ Interview-Oriented Approaches
+
+✅ Pattern Recognition Techniques
 
 ---
 
-# 🎯 Current Goal
-
-### Complete the Entire Striver A2Z DSA Sheet
-
-- Learn Every Topic
-- Solve Every Problem
-- Revise Regularly
-- Build Strong Logic
-- Become Interview Ready
-
----
-
-# 🛣️ Learning Roadmap
+# 🛣️ DSA Roadmap
 
 ## 🟢 Foundations
 
@@ -191,23 +181,55 @@ Striver-A-to-Z/
 
 ---
 
-# 🔗 Coding Profiles
+# 🏆 Striver A2Z Progress
 
-## TakeUForward Profile
+<div align="center">
 
-🌐 https://takeuforward.org/profile/krishna_108
+### 📚 TakeUForward Profile
+
+<a href="https://takeuforward.org/profile/krishna_108">
+    <img src="https://img.shields.io/badge/TakeUForward-Profile-orange?style=for-the-badge&logo=bookstack" />
+</a>
+
+<br><br>
+
+🔗 https://takeuforward.org/profile/krishna_108
+
+<br>
+
+📈 Following the complete Striver A2Z roadmap and tracking progress publicly.
+
+</div>
 
 ---
 
-## LeetCode Profile
+# 💻 Coding Profiles
 
-🌐 https://leetcode.com/u/krishna-devansh-rao/
+<div align="center">
+
+### LeetCode
+
+<a href="https://leetcode.com/u/krishna-devansh-rao/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
+</a>
+
+<br><br>
+
+🔗 https://leetcode.com/u/krishna-devansh-rao/
 
 ---
 
-## GitHub Profile
+### GitHub
 
-🌐 https://github.com/Krishna-Devansh-Rao
+<a href="https://github.com/Krishna-Devansh-Rao">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+</a>
+
+<br><br>
+
+🔗 https://github.com/Krishna-Devansh-Rao
+
+</div>
 
 ---
 
@@ -233,7 +255,7 @@ Striver-A-to-Z/
 
 ---
 
-# 📊 Contribution Graph
+# 📊 Contribution Activity
 
 <div align="center">
 
@@ -243,13 +265,26 @@ Striver-A-to-Z/
 
 ---
 
-# 🔥 Motivation
+# 🔥 Daily Goals
+
+- Solve Problems Consistently
+- Learn New Concepts
+- Improve Problem-Solving Skills
+- Revise Previous Topics
+- Build Strong DSA Fundamentals
+- Become Placement Ready
+
+---
+
+# 💡 Motivation
 
 > "The expert in anything was once a beginner."
 
 > "Consistency beats motivation."
 
-> "Small progress every day adds up to big results."
+> "Small daily improvements lead to remarkable long-term results."
+
+> "One problem solved today is one step closer to mastery."
 
 ---
 
@@ -257,11 +292,13 @@ Striver-A-to-Z/
 
 If you find this repository useful:
 
-⭐ Star the repository
+⭐ Star this Repository
 
-🍴 Fork the repository
+🍴 Fork this Repository
 
-🤝 Follow my journey
+🤝 Follow My Journey
+
+📈 Track My Progress
 
 ---
 
@@ -279,7 +316,9 @@ If you find this repository useful:
 
 ## 🚀 One Problem At A Time
 
-### 💪 Learning Every Day
+### 💪 Stay Consistent
+
+### 📚 Keep Learning
 
 ### 🔥 Striver A2Z DSA Journey In Progress...
 
