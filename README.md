@@ -301,7 +301,7 @@ If you find this repository useful:
 
 ### 📚 Keep Learning
 
-### 🔥 Striver A2Z DSA Journey In Progress...
+### 🔥 Striver A2Z DSA Journey In Progress..
 
 <br>
 
