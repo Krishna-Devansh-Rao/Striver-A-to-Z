@@ -1,4 +1,4 @@
-# 🚀 Striver A2Z DSA Journey
+# 🚀 Striver A2Z DSA Journey by TuF+
 
 <div align="center">
 
