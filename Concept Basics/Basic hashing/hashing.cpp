@@ -1,77 +1,69 @@
 #include <iostream>
+#include <map>
 using namespace std;
 
-// int main(){
-//     int arr[] = {5,6,5,4,6,9,6};
-//     int n = sizeof(arr)/sizeof(arr[0]);
-//     int num1 = 6;
-//     int count = 0 ;
-//     for(int i = 0 ; i < n ; i++){
-//         if( arr[i] == num1){
-//             count++;
-//         }
-//     }
-//     cout << count;
-// cout << endl;    
-// }
 
 
-
-int countfreq(int arr[],int num,int n){
-    int count = 0 ;
-    for(int i = 0 ; i < n; i++){
-        if(arr[i] == num){
-            count++;
-        }
-    }
-    return count;
-}
-
-int main(){
-    int num;
-    cout << "Input here : ";
-    int n ;
-    cin >> n;
-    int arr[n];
-    // cin >> arr[i];
-    cout << "Input array here : ";
-    for(int i = 0 ; i < n ; i++){
-        cin >> arr[i];
-    }
-    cout << "Input Q here : ";
-    int q;
-    cin >> q;
-    cout << "Input num here : ";
-    while(q--){
-        int num ;
-        cin >> num;
-    }
-    cout << countfreq(arr,num,n);
-}
-
-// int countFreq(int arr[], int num, int n){
-//     int count = 0;
-//     for(int i = 0; i < n; i++){
-//         if(arr[i] == num){
-//             count++;
-//         }
-//     }
-//     return count;
-// }
-
+// Number hashing
 // int main(){
 //     int n;
-//     cin >> n;
+//     cout << "Input  n : " ;
+//     cin >> n ;
 //     int arr[n];
-//     for(int i = 0; i < n; i++){
+//     for(int i = 0 ; i < n ; i++){
 //         cin >> arr[i];
 //     }
-//     int q;
-//     cin >> q;
-//     while(q--){
-//         int num;
-//         cin >> num;
-//         cout << countFreq(arr, num, n) << endl;
+//     int hash[50] = {0};
+//     for(int i  = 0 ; i < n ; i++){
+//         hash[arr[i]]++;
 //     }
+//     cout << "Freq of hash[1]: " << hash[1]<< endl;
+//     cout << "Freq of hash[2]: " <<hash[2]<< endl;
+//     cout << "Freq of hash[3]: " <<hash[3]<< endl;
+
+
+
+// character table
+// int main()
+// {
+//     string s;
+//     // cin >> s;
+//     s = "banana";
+//     int hash[26] = {0};
+//     for(int i = 0; i < s.size(); i++)
+//     {
+//         hash[s[i] - 'a']++;
+//     }
+//     cout << "b -> " << hash[1] << endl;
+//     cout << "a -> " << hash[0] << endl;
+//     cout << "n -> " << hash[13] << endl;
 //     return 0;
 // }
+
+
+// Map
+    
+int main(){
+    int arr[] = {1000,2000,1000,3000};
+
+    map<int,int> num;
+
+    for(int i = 0 ; i < 4; i++){
+        num[arr[i]]++;
+    }
+
+    cout << num[1000];
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
